@@ -1,2 +1,0 @@
-# alphone
-alphone of YBT
