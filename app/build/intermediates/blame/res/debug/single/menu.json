@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/elihai/AndroidStudioProjects/Alphone/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/elihai/AndroidStudioProjects/Alphone/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/elihai/AndroidStudioProjects/Alphone/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/home/elihai/AndroidStudioProjects/Alphone/app/src/main/res/menu/context_menu.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">אלפון ישיבת בית אל</string>
+    <string name="action_settings">הוראות</string>
+    <string name="title_activity_ins">הוראות</string>
+    <string name="title_activity_name_list">רשימת שמות</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="alphbetical">רשימה אלפבתית</string>
+    <string name="title_activity_shabbes">זמני שבת חורף תשע\"ו</string>
+    <string name="title_activity_tfilot">Tfilot</string>
+</resources>

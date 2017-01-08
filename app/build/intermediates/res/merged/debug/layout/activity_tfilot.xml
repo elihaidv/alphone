@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    tools:context="com.elihai.alphone.Tfilot">
+
+    <LinearLayout
+        android:id="@+id/buttonsL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <Button
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:hint="יום חול"
+            android:onClick="yomhol"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="שבת קודש"
+            android:textSize="30dp"
+            android:onClick="shabbes"/>
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </WebView>
+</RelativeLayout>
